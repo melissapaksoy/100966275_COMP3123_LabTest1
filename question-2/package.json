@@ -1,0 +1,11 @@
+{
+  "name": "question-2",
+  "version": "1.0.0",
+  "description": "LabTest1-Q2",
+  "main": "callback.js",
+  "scripts": {
+    "q2": "node callback.js"
+  },
+  "author": "Mel",
+  "license": "ISC"
+}

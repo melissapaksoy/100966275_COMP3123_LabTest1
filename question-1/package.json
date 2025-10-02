@@ -1,0 +1,11 @@
+{
+  "name": "question-1",
+  "version": "1.0.0",
+  "description": "LabTest1-Q1",
+  "main": "lowerCaseWords.js",
+  "scripts": {
+    "q1": "node lowerCaseWords.js"
+  },
+  "author": "Mel",
+  "license": "ISC"
+}

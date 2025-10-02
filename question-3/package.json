@@ -1,0 +1,11 @@
+{
+  "name": "question-3",
+  "version": "1.0.0",
+  "description": "LabTest1-Q3",
+  "scripts": {
+    "add": "node add.js",
+    "remove": "node remove.js"
+  },
+  "author": "Mel",
+  "license": "ISC"
+}
